@@ -12,6 +12,8 @@ data:
     - repos:
       - ascend/canndev
       - ascend/cann_op_contrib
+      - ascend/ACLLite
+      - ascend/EdgeAndRobotics
       - ascend/torchair
       - ascend/vision
       - ascend/Asight

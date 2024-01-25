@@ -82,6 +82,8 @@ data:
     - repos:
       - ascend/cann_op_contrib
       - ascend/vision
+      - ascend/ACLLite
+      - ascend/EdgeAndRobotics
       merge_method: squash
       labels:
       - label: lgtm
